@@ -1,0 +1,7 @@
+export const style = {
+  ROOT_HEADER_HEIGHT: 65,
+  CARD_MIN_WIDTH: 400,
+  MARGIN_PREV: 2,
+  VIDEO_MAX_WIDH: 500,
+  VIDEO_ASPECT_RATIO: [42, 30],
+};

@@ -1,5 +1,3 @@
-Library sourse files:
-![](src/lib)
+Library sourse files: "src/lib"
 
-library builded files
-![](dist)
+Library builded files: "dist"
